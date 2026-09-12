@@ -1,1 +1,0 @@
-# Stock-Market-Portfolio-Analysis-Using-My-SQL
